@@ -34,6 +34,7 @@ int main(int argc, char* argv[]) {
 #if _WIN32
         system("pause");
 #endif
+        return 0;
     }
 
     struct feature {
